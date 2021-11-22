@@ -1,0 +1,9 @@
+body{
+  background-color: #909090;
+}
+
+.progressBar{
+  width: 50%; 
+  height: 8px;
+  background-color: orange;
+}
